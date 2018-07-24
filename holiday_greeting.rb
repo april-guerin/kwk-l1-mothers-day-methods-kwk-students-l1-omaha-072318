@@ -1,3 +1,6 @@
-def holiday_greeting(to = "Mom", from = "Your Fa", holiday)
+def holiday_greeting(to = "Mom", from = "Your Favorite Child", holiday = "Mother's Day")
   "Happy #{holiday}, #{to}! - From #{from}"
+end
+
+holiday_greeting
   
