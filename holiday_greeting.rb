@@ -2,7 +2,7 @@ def holiday_greeting(to = "Mom", from = "Your Favorite Child", holiday = "Mother
   "Happy #{holiday}, #{to}! - From #{from}"
 end
 
-holiday_greeting()
-holiday_greeting("Beyonce", "Jay-Z", "Fourth of July")
+puts holiday_greeting()
+puts holiday_greeting("Beyonce", "Jay-Z", "Fourth of July")
 
   
